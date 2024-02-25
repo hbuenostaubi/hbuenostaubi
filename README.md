@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harrison@hbuenostaubi
 - 👀 I’m interested in building web applications or data modeling. 
-- 🌱 I’m currently learning C# and Angular and working on my thesis for my MS in Computer Science.  
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 You can reach me at hbueno25@gmail.com
 
